@@ -27,7 +27,3 @@
   <strong> Estatísticas </strong>
   
   ![Stats Github](https://github-readme-stats.vercel.app/api?username=FabioMayk510&show_icons=true&include_all_commits=true&count_private=true&bg_color=45,000022,9999ff&border_color=fff&text_color=fff&hide_title=true&theme=vue-dark)
-  
-  <br>
-  
-  <a href = "#fabio-mayk-souza-silva"> ![Topo](https://img.shields.io/badge/Voltar%20ao%20Topo-000?style=for-the-badge) </a>
