@@ -8,7 +8,7 @@
   <strong> Redes Sociais </strong>
   
   <a href = "https://www.linkedin.com/in/fabio-mayk-9b82ba21b"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=Social&logo=LinkedIn) </a>
-  <a href = "https://www.wa.me/5511983830376"> ![Whatsapp](https://img.shields.io/badge/Whatsapp-25d366?style=Social&logo=Whatsapp&logoColor=fff) </a>
+  <a href = "https://wa.me/5511983830376"> ![Whatsapp](https://img.shields.io/badge/Whatsapp-25d366?style=Social&logo=Whatsapp&logoColor=fff) </a>
   
   <br>
   
