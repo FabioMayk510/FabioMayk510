@@ -21,6 +21,8 @@
   ![MySQL](https://img.shields.io/badge/MySQL-107090?style=for-the-badge&logo=mysql&logoColor=fff)
   ![Node.js](https://img.shields.io/badge/NodeJS-109030?style=for-the-badge&logo=nodedotjs&logoColor=fff)
   ![C++](https://img.shields.io/badge/C++-125090?style=for-the-badge&logo=cplusplus&logoColor=fff)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   
   <br>
   
